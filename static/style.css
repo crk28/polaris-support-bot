@@ -144,6 +144,7 @@ body {
     background: #E0E0E0;
     padding: 8px 12px;
     max-width: 70%;
+    width: fit-content;
 }
 
 .messages__item--visitor,
